@@ -2,7 +2,7 @@
 #include <WiFiSSLClient.h>
 #include <ArduinoJson.h>
 #include "secrets.h" // Include your secrets
-
+ 
 // Network details
 const char ssid[] = SSID;
 const char password[] = WIFI_PASSWORD;
